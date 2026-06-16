@@ -1,40 +1,20 @@
-# Hi, I'm Sinjini Budhkar! 👋
+# Sinjini Budhkar 👋
 
-### 📡 ENTC Student | Secure ML & Full-Stack Developer
+**ENTC Student & Secure software Developer (Class of 2026)**[cite: 1]
 
-I build real-world systems that blend **Machine Learning, Automation, and Computer Vision**. Currently working as a Full Stack Developer focusing on LLMs and RAG, while exploring data pipelines and edge AI. Graduating July 2026!
+I build practical systems that blend **Machine Learning, Automation, and Edge AI**. I currently work on LLM and RAG integrations[cite: 1], alongside my own predictive modeling and hardware projects.
 
----
+### 💻 Core Stack
+*   **AI & Data:** Deep Learning, Computer Vision (MobileNetV2), XGBoost, RAG, PostgreSQL[cite: 1]
+*   **Engineering:** Python, C++, FastAPI, Embedded C[cite: 1]
+*   **Hardware:** ESP32, Raspberry Pi[cite: 1]
 
-## 🛠️ Quick Tech Stack
+### 🚀 2026 Builds
+*   🏎️ **F1 Race Engine:** Predicting race pace via XGBoost & Monte Carlo simulations *(Private build).*
+*   🌱 **Smart Crop App:** MVP mobile app delivering localized weather & NPK soil models.
+*   🐛 **Pest ID Framework:** Fast binary classifier ("Pest" vs. "Not Pest") using MobileNetV2.
+*   🕵️‍♀️ **Lead Intel Tool:** FastAPI scraper extracting tech executive data via DDGS.
+*   ⚡ **Wake Up Terminal:** Audio/pattern recognition system to auto-launch my dev environment.
 
-*   **Languages & Backend:** Python, C++, SQL, Embedded C, FastAPI
-*   **AI & Data:** Deep Learning, NLP, Computer Vision (MobileNetV2), XGBoost, RAG, PostgreSQL, Docker
-*   **Hardware & Sec:** ESP32, Raspberry Pi, NMAP, VAPT
-
----
-
-## 🚀 2026 Featured Builds
-
-| Project | What It Is | Tech |
-| :--- | :--- | :--- |
-| 🏎️ **F1 Race Simulation Engine** | Predictive modeling for race pace and tyre degradation. *(Private build).* | `XGBoost`, `Monte Carlo` |
-| 🌱 **Smart Crop Advisory App** | MVP mobile app for farmers with soil NPK models & localized weather. | `Mobile App`, `Data Analytics` |
-| 🐛 **Pest Identification** | Binary classifier framework ("Pest" vs. "Not Pest") for agriculture. | `MobileNetV2`, `CV` |
-| 🕵️‍♀️ **Lead Intelligence Tool** | AI scraper extracting regional software company executive data. | `FastAPI`, `DDGS` |
-| ⚡ **Wake Up Terminal** | Workspace automation launching my dev environment via pattern recognition. | `Python`, `Scripting` |
-
----
-
-## 🏆 Beyond the Code
-
-*   **Team Vulcans (Robotics):** Embedded systems programming and sensor integration for ABU Robocon Nationals prototypes.
-*   **IEEE Student Branch:** Organizing and curating technical workshops.
-
----
-
-## 📫 Let's Connect
-
-*   **LinkedIn:** [linkedin.com/in/sinjini-budhkar](https://www.linkedin.com/in/sinjini-budhkar-86505a292/)
-*   **Email:** ssbudhkar1001@gmail.com
-*   📍 Pune, India
+### 📫 Connect
+📍 Pune, India[cite: 1] | ✉️ ssbudhkar1001@gmail.com[cite: 1] | 🔗 [LinkedIn](https://www.linkedin.com/in/sinjini-budhkar-86505a292/)[cite: 1]
